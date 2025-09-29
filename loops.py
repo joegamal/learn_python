@@ -16,6 +16,6 @@ for key, value in student.items():
 
 
 while i < 15:
-    print(f'pc is now on instruction {i}')
+    print(f'pc is now on instruction {i}') 
 
-    
+
