@@ -22,7 +22,7 @@ x_string = "string"
 x_list = []
 
 
-#tuple -> set in java
+#tuple -> 
 x_tuple = ()
 
 
